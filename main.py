@@ -12,7 +12,7 @@ run = True
 clock = pygame.time.Clock()
 dt = 0
 
-point = Mass(100, 300, 0, 0.2)
+point = Mass(5, 200, 0, 0.4, 5)
 
 while run:
 
